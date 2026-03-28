@@ -90,3 +90,84 @@ Puede ser una oportunidad si:
 
 ## 👤Autora
 Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
+
+***
+📊 La empresa reporta buenos resultados…
+pero en otro país, el mercado vende.
+
+¿Error? ¿Ruido?
+No necesariamente.
+
+---
+
+Hay un fenómeno poco discutido:
+
+👉 El mismo evento (earnings positivos) puede generar reacciones opuestas según el mercado.
+
+---
+
+🔍 Lo que analicé:
+
+Casos donde:
+
+* 📈 La empresa reporta **ganancias**
+* 🌍 Pero en mercados fuera de su país base
+* 📉 Se observa un **sell-off fuerte (RSI < 30)**
+
+---
+
+💡 ¿Por qué pasa esto?
+
+Algunas posibles razones:
+
+* Riesgo cambiario
+* Contexto macroeconómico local
+* Diferente percepción de riesgo
+* Flujos de capital regionales
+
+👉 El mercado no interpreta la noticia en el vacío.
+
+---
+
+🧠 Insight clave:
+
+La información es global…
+pero su interpretación es local.
+
+---
+
+📉 Lo más interesante:
+
+Mientras en un mercado el evento puede ser:
+
+* Señal de crecimiento 📈
+
+En otro puede ser visto como:
+
+* Riesgo o sobrevaluación 📉
+
+---
+
+🚀 Aplicaciones:
+
+* Estrategias long/short entre mercados
+* Detección de divergencias geográficas
+* Arbitraje de percepción de riesgo
+* Features para modelos multi-mercado
+
+---
+
+🧠 Takeaway:
+
+No alcanza con analizar la noticia…
+
+👉 hay que entender *cómo la interpreta cada mercado*
+
+---
+
+Estoy explorando insights combinando SQL + análisis cuantitativo para detectar este tipo de anomalías globales.
+
+Si te interesa este enfoque, conversemos 👇
+
+#DataScience #Quant #Finance #Trading #MachineLearning #SQL #Investing
+
